@@ -6,7 +6,7 @@ body, html {
     overflow-x: hidden;
     position: relative;
     font-family: fon;
-    font-size: calc(0.75em + 1vmin);
+    font-size: calc(0.55em + 1vmin);
     scroll-behavior: smooth;
     width: 100%;
 }
